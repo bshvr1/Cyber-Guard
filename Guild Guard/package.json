@@ -1,0 +1,15 @@
+{
+  "name": "cyber-sguard",
+  "version": "0.0.1",
+  "description": "cyber Sunucu Guard",
+  "main": "cyber.js",
+  "scripts": {
+    "test": "node cyber.js"
+  },
+  "author": "cyber",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "keywords": []
+}
