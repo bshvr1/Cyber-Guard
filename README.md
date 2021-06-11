@@ -1,2 +1,4 @@
 # Cyber-Guard
-Public Sunucular İçin Guard Bot
+İlk Bot Yapmaya Başladığımda Kullandığım Bir Altyapıydı
+
+cyber.js doldurmanız yeterli olacaktır iyi kullanımlar yıldız atmayı unutmayınn <333
