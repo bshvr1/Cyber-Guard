@@ -9,3 +9,6 @@ Klasörde 3 farklı bot mevcut ;
 Kanal Koruma
 Sunucu Koruma
 Backup Bot
+
+
+yardım destek için https://discord.gg/serendia
